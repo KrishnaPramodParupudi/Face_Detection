@@ -12,7 +12,7 @@ To run this on your own custom images:
 3.dlib
 4.OpenCv
 
-# Installaion Guidelines:
+# Installation Guidelines:
 
 1. dlib:
      *Make sure you install CMake , Boost , Boost.python , X11 using the following steps
